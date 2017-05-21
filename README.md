@@ -9,4 +9,5 @@ This is a list of good Docker resources I found on web. Most of these are discov
 ## Legends
 
 * ​:memo: - a text resource — blog/article/tutorial
-* ​:video:​ - a video resource 
+* ​:video_camera:​ - a video resource 
+
