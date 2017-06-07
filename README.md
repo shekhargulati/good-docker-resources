@@ -11,7 +11,8 @@ This is a list of good Docker resources I found on web. Most of these are discov
 7. ​:memo: [Deploy the Voting App on a Docker Swarm using Compose version 3](https://medium.com/lucjuggery/deploy-the-voting-apps-stack-on-a-docker-swarm-4390fd5eee4): This good post shows how to deploy an application built using multiple services (aka Microservices) to Docker swarm cluster using `docker stack` command and `docker-compose.yml` configuration file.
 8. ​:memo: [Fully automated development environment with docker-compose](https://blog.maqpie.com/2017/02/22/fully-automated-development-environment-with-docker-compose/): This post shares how to setup local development environment with docker-compose. A Lot of useful tips like booting up specific services, `COMPOSE_PROJECT_NAME`, `build` option, etc. 
 9. ​:memo: [Docker Compose v3.1 file format now supports Docker 1.13.1 Secret Management](http://collabnix.com/archives/2565): This post will teach you how to use Docker's secret management feature to create and inject secrets to services. The post does not cover one aspect. You can use secrets with local docker-compose secrets files rather than `docker secret create` command.
-10. [​:memo:​ Comparing Docker compose versions](https://sreeninet.wordpress.com/2017/03/28/comparing-docker-compose-versions/): This post does a very good job distinguishing different Docker compose versions. Also, it clarify difference between — compose, stack, and dab formats. 
+10. ​[:memo: Comparing Docker compose versions](https://sreeninet.wordpress.com/2017/03/28/comparing-docker-compose-versions/): This post does a very good job distinguishing different Docker compose versions. Also, it clarify difference between — compose, stack, and dab formats. 
+11. ​:memo:​ [How docker stack deploy works?](https://github.com/moby/moby/issues/29676): A github issue detailing how `docker stack deploy —compose-file`  works.
 
 
 ## Legends
