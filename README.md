@@ -26,7 +26,9 @@ This is a list of good Docker resources I found on web. Most of these are discov
 
 12. ​:video_camera: [All the New Goodness of Docker Compose](https://www.youtube.com/watch?v=VU85e4t-YHY): This talk gives a good overview of new features introduced in Docker Compose file version 3.0.
 
-13. ​:memo:​ [Modernizing Traditional Applications with Docker](http://www.valcolabs.com/2017/05/07/modernizing-traditional-applications-with-docker/): A good post covering path to modernise traditional applications(or MTA).
+13. ​:memo: [Modernizing Traditional Applications with Docker](http://www.valcolabs.com/2017/05/07/modernizing-traditional-applications-with-docker/): A good post covering path to modernise traditional applications(or MTA).
+
+14. ​:memo:​ [Leveraging the dockerignore file to Create Smaller Images](https://blog.codeship.com/leveraging-the-dockerignore-file-to-create-smaller-images/): This is something that should be obvious to all of us but somehow we all forget to use it. We should use `.dockerignore` file to specify files that we don't want to be included in the image.
 
     ​
 
