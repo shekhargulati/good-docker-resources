@@ -32,12 +32,12 @@ This is a list of good Docker resources I found on web. Most of these are discov
 
 15. ​:memo: [Managing Secrets in Docker Swarm](https://semaphoreci.com/community/tutorials/managing-secrets-in-docker-swarm): An in-depth tutorial on how secret management works with Docker Swarm.
 
-16. ​:note:​ [Automating Jenkins Docker Setup](https://technologyconversations.com/2017/06/16/automating-jenkins-docker-setup/): This post will help you automate Jenkins setup by automatically installing plugins from a text file. Good post to learn how to automate Jenkins itself.
+16. ​:memo:​ [Automating Jenkins Docker Setup](https://technologyconversations.com/2017/06/16/automating-jenkins-docker-setup/): This post will help you automate Jenkins setup by automatically installing plugins from a text file. Good post to learn how to automate Jenkins itself.
 
     ​
 
 
 ## Legends
 
-* ​:memo: - a text resource — blog/article/tutorial
+* ​:memo:​ - a text resource — blog/article/tutorial
 * ​:video_camera: - a video resource 
