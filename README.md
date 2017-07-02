@@ -30,7 +30,9 @@ This is a list of good Docker resources I found on web. Most of these are discov
 
 14. ​:memo: [Leveraging the dockerignore file to Create Smaller Images](https://blog.codeship.com/leveraging-the-dockerignore-file-to-create-smaller-images/): This is something that should be obvious to all of us but somehow we all forget to use it. We should use `.dockerignore` file to specify files that we don't want to be included in the image.
 
-15. ​:memo:​ [Managing Secrets in Docker Swarm](https://semaphoreci.com/community/tutorials/managing-secrets-in-docker-swarm): An in-depth tutorial on how secret management works with Docker Swarm.
+15. ​:memo: [Managing Secrets in Docker Swarm](https://semaphoreci.com/community/tutorials/managing-secrets-in-docker-swarm): An in-depth tutorial on how secret management works with Docker Swarm.
+
+16. ​:note:​ [Automating Jenkins Docker Setup](https://technologyconversations.com/2017/06/16/automating-jenkins-docker-setup/): This post will help you automate Jenkins setup by automatically installing plugins from a text file. Good post to learn how to automate Jenkins itself.
 
     ​
 
