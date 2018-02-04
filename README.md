@@ -1,6 +1,6 @@
 # Good Docker Resources
 
-This is a list of good Docker resources I found on web. Most of these are discovered via Docker weekly newsletters.
+This is a list of good Docker resources I found on web. Most of these are discovered via Docker weekly newsletters. You should also check out [Hackr.io's curated Docker resources](https://hackr.io/tutorials/learn-docker)
 
 1. ​:memo: [ENTRYPOINT vs CMD: Back to Basics](http://www.johnzaccone.io/entrypoint-vs-cmd-back-to-basics/): A good blog that explains difference between two common Dockerfile commands. An in-depth to the point post. 
 
